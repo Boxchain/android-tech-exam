@@ -1,0 +1,74 @@
+{
+  "users":[
+    {
+      "id":"1",
+      "fullName":"Juana Dela Cruz",
+      "age":18,
+      "contactNo":"09151234567",
+      "email":"juana@test.com"
+    },
+    {
+      "id":"2",
+      "fullName":"Mang Pedro",
+      "age":34,
+      "contactNo":"09151234333",
+      "email":"pedro@test.com"
+    },
+    {
+      "id":"3",
+      "fullName":"Maria Makiling",
+      "age":21,
+      "contactNo":"09151233367",
+      "email":"ma.makiling@test.com"
+    },
+    {
+      "id":"4",
+      "fullName":"Benjie Parak",
+      "age":30,
+      "contactNo":"09151114567",
+      "email":"benj.parak@test.com"
+    },
+    {
+      "id":"5",
+      "fullName":"Alvin Patrimonio",
+      "age":29,
+      "contactNo":"09151134567",
+      "email":"alvin@test.com"
+    },
+    {
+      "id":"6",
+      "fullName":"Lebron James",
+      "age":26,
+      "contactNo":"09151200067",
+      "email":"lbj@test.com"
+    },
+    {
+      "id":"7",
+      "fullName":"Kobe Bryant",
+      "age":34,
+      "contactNo":"09151222267",
+      "email":"kobe@test.com"
+    },
+    {
+      "id":"8",
+      "fullName":"Stephen Curry",
+      "age":26,
+      "contactNo":"09157777777",
+      "email":"steph@test.com"
+    },
+    {
+      "id":"9",
+      "fullName":"Kyrie Irving",
+      "age":26,
+      "contactNo":"09171234567",
+      "email":"kyrie@test.com"
+    },
+    {
+      "id":"10",
+      "fullName":"Jordan Clarkson",
+      "age":24,
+      "contactNo":"09181555567",
+      "email":"jc@test.com"
+    }
+  ]
+}
