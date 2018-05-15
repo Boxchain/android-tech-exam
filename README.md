@@ -24,7 +24,7 @@ The main goal you need to achieve is to display a list of user information. The 
 
 
 ### Submission
-- It's just an approximately 1 day to finish, as we don't want you to spend all you time with this, but you can submit it once you're done and kindly include how many hours it took you to finish in your submission email.
+- It's just an approximately 1 day to finish, as we don't want you to spend all of your time with this, but you can submit it once you're done and kindly include how many hours it took you to finish in your submission email.
 - You must push your work on a public repository where we can check it out like Github, Gitlab or Bitbucket.
 - Kindly send the link to karl.figueras@boxchain.com
 
