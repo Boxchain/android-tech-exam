@@ -1,7 +1,7 @@
 Android Technical Examination
 ----
 
-This technical examination is to assess your skills in Android development. You can implement any architecture you want, any libraries that will help you to finish faster. If there's an unclear part of the instruction or you any questions, feel free to send us an email. Let's begin!
+This technical examination is to assess your skills in Android development. You can implement any architecture you want, any libraries that will help you to finish faster. If there's an unclear part of the instruction or you have any questions, feel free to send us an email. Let's begin!
 
 
 ### Goal
