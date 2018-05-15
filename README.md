@@ -18,6 +18,8 @@ The main goal you need to achieve is to display a list of user information. The 
 - `data` attribute in the element `userInfoList` is dynamic, so anytime it can be change where the user data will come from.
 - You can just display the list item on a linear layout.
 
+##### Sample Screen Look
+![](https://raw.githubusercontent.com/Boxchain/android-tech-exam/master/sample-screen.png)
 
 
 ### Submission
